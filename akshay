@@ -3,5 +3,6 @@ main
 {
 printf("abcd");
 printf("efgh");
+printf("ijkl");
 }
 
